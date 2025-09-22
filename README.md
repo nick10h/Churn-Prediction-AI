@@ -39,7 +39,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/gauravdev01/Churn-Prediction-AI.git
+git clone https://github.com/nick10h/Churn-Prediction-AI.git
 cd Churn-Prediction-AI
 ```
 
